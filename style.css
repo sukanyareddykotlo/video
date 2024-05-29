@@ -1,0 +1,33 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:#3CA6A6;
+}
+#Video
+{
+    width: 500px;
+    height: 500px;
+   
+   
+}
+.btn
+{
+    display: flex;
+    justify-content: center;
+}
+button
+{
+   color: white;
+   font-size: 20px;
+   background-color: #F24405;
+    width: 90px;
+    height: 40px;
+    border: none;
+   transform: translate(0px,-90px);
+   margin: 20px;
+   border-radius: 15px;
+   cursor: pointer;
+}
